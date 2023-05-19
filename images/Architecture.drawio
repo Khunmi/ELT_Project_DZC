@@ -1,0 +1,129 @@
+<mxfile host="app.diagrams.net" modified="2023-05-19T00:49:34.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.2" etag="zUbk9FWJAhmPJ9vE6hSt" type="device">
+  <diagram id="UpEvnnwVcwRblnpOXZPQ" name="Page-1">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="780" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-2" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn-icons-png.flaticon.com/512/6133/6133884.png;" vertex="1" parent="1">
+          <mxGeometry x="50" y="94" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://w7.pngwing.com/pngs/862/993/png-transparent-excel-icon-microsoft-excel-application-software-icon-excel-background-text-rectangle-logo-thumbnail.png;" vertex="1" parent="1">
+          <mxGeometry x="58" y="187" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://thevine.io/wp-content/uploads/2018/05/data.gov_.png;" vertex="1" parent="1">
+          <mxGeometry x="24.5" y="137.41" width="95" height="43.18" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://download.logo.wine/logo/Google_Storage/Google_Storage-Logo.wine.png;clipPath=inset(13.5% 24% 14.5% 23.33%);" vertex="1" parent="1">
+          <mxGeometry x="253" y="116" width="102.31" height="93.24455696202531" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1" source="AV9Z-n_zMP6tGPh80XuP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="124" as="sourcePoint" />
+            <mxPoint x="150" y="164" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="114" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="164" as="sourcePoint" />
+            <mxPoint x="150" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1" source="AV9Z-n_zMP6tGPh80XuP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98" y="209.81" as="sourcePoint" />
+            <mxPoint x="150" y="164" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-21" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1" target="AV9Z-n_zMP6tGPh80XuP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="164" as="sourcePoint" />
+            <mxPoint x="200" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="162" as="targetPoint" />
+            <mxPoint x="521" y="162" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AV9Z-n_zMP6tGPh80XuP-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="466" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://banner2.cleanpng.com/20180920/thu/kisspng-bigquery-google-cloud-platform-cloud-computing-dat-google-products-using-tableau-for-faster-insights-5ba34cf6d17ee0.0817139815374287268581.jpg;clipPath=inset(20.06% 33.33% 20.06% 33.33%);" vertex="1" parent="1">
+          <mxGeometry x="433" y="116" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-23" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355.31" y="162" as="sourcePoint" />
+            <mxPoint x="430" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-25" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://seekvectorlogo.com/wp-content/uploads/2023/03/prefect-technologies-inc-vector-logo.png;clipPath=inset(25.45% 2% 26.05% 1%);" vertex="1" parent="1">
+          <mxGeometry x="160" y="169.18" width="74.8" height="20.82" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AV9Z-n_zMP6tGPh80XuP-26" target="AV9Z-n_zMP6tGPh80XuP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-26" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://seeklogo.com/images/D/dbt-logo-E4B0ED72A2-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="415.63" y="30" width="116.74" height="44.75" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="AV9Z-n_zMP6tGPh80XuP-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422" y="134" as="sourcePoint" />
+            <mxPoint x="477" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-30" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="590" y="134" width="195.49" height="51.88" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-31" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png;" vertex="1" parent="1">
+          <mxGeometry x="264.43" y="26.27" width="107.78" height="60.73" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#000000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AV9Z-n_zMP6tGPh80XuP-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355.31" y="94" as="sourcePoint" />
+            <mxPoint x="420" y="56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-33" value="Data Source" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="57" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-34" value="Data Lake" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="276.15" y="207.24" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-35" value="Data Warehouse" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="447" y="204" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-36" value="Data Visualisation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="104" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-37" value="Transformation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="86" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-38" value="CI" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="366" y="26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-39" value="Orchestration" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="167.39999999999998" y="187" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-40" value="Loading" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AV9Z-n_zMP6tGPh80XuP-43" value="Extract" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="167.39999999999998" y="133" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
